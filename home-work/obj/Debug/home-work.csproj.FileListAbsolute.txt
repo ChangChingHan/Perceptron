@@ -1,0 +1,16 @@
+D:\VC9 Projects\home-work\home-work\bin\Debug\home-work.exe
+D:\VC9 Projects\home-work\home-work\bin\Debug\home-work.pdb
+D:\VC9 Projects\home-work\home-work\obj\Debug\ResolveAssemblyReference.cache
+D:\VC9 Projects\home-work\home-work\obj\Debug\home_work.Form1.resources
+D:\VC9 Projects\home-work\home-work\obj\Debug\home_work.Properties.Resources.resources
+D:\VC9 Projects\home-work\home-work\obj\Debug\home-work.csproj.GenerateResource.Cache
+D:\VC9 Projects\home-work\home-work\obj\Debug\home-work.exe
+D:\VC9 Projects\home-work\home-work\obj\Debug\home-work.pdb
+D:\類神經\home-work\home-work\obj\Debug\ResolveAssemblyReference.cache
+D:\類神經\home-work\home-work\obj\Debug\home_work.Properties.Resources.resources
+D:\類神經\home-work\home-work\obj\Debug\home-work.csproj.GenerateResource.Cache
+D:\類神經\home-work\home-work\obj\Debug\home_work.Form1.resources
+D:\類神經\home-work\home-work\bin\Debug\home-work.exe
+D:\類神經\home-work\home-work\bin\Debug\home-work.pdb
+D:\類神經\home-work\home-work\obj\Debug\home-work.exe
+D:\類神經\home-work\home-work\obj\Debug\home-work.pdb

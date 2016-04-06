@@ -1,0 +1,12 @@
+D:\類神經\home-work\home-work\bin\Release\home-work.exe
+D:\類神經\home-work\home-work\bin\Release\home-work.pdb
+D:\類神經\home-work\home-work\obj\Release\ResolveAssemblyReference.cache
+D:\類神經\home-work\home-work\obj\Release\home_work.Form1.resources
+D:\類神經\home-work\home-work\obj\Release\home_work.Properties.Resources.resources
+D:\類神經\home-work\home-work\obj\Release\home-work.csproj.GenerateResource.Cache
+D:\類神經\home-work\home-work\obj\Release\home-work.exe
+D:\類神經\home-work\home-work\obj\Release\home-work.pdb
+D:\類神經\作業一\home-work\home-work\obj\Release\home-work.exe
+D:\類神經\作業一\home-work\home-work\obj\Release\home-work.pdb
+D:\School\計算型智慧\104-1\作業一\home-work\home-work\obj\Release\home-work.exe
+D:\School\計算型智慧\104-1\作業一\home-work\home-work\obj\Release\home-work.pdb
